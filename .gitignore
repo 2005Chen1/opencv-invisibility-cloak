@@ -1,0 +1,26 @@
+# Images
+*.jpg
+*.jpeg
+*.png
+
+# Third-party library
+opencv_3.4.2_Qt/
+opencv_3.4.2_Qt.rar
+
+# Qt installer
+qt-opensource-windows-x86-mingw530-5.8.0.exe
+
+# Build artifacts
+build-*/
+debug/
+release/
+*.o
+*.obj
+*.exe
+Makefile
+Makefile.*
+.qmake.stash
+
+# IDE config
+*.pro.user
+.idea/
